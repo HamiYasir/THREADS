@@ -14,4 +14,6 @@ This is an e-commerce webiste used to provide online customers with premium fash
 
 ### DEPLOYMENT
 
-This app has yet to be deployed :/
+This app has been deployed at https://threads24.netlify.app/
+
+You can check it out there. Enjoy :)
